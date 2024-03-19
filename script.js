@@ -82,7 +82,7 @@ function playerMove(choice){
     document.querySelector('.result')
         .innerHTML = `${result}`;
     document.querySelector('.displayChoices')
-        .innerHTML = `You <img src="./${choice}-emoji.png" class="moveIcon"> <img src="./${computerMove}-emoji.png" class="moveIcon">Computer  `;
+        .innerHTML = `You <img src="./assets/${choice}-emoji.png" class="moveIcon"> <img src="./assets/${computerMove}-emoji.png" class="moveIcon">Computer  `;
     display(); 
 }
 

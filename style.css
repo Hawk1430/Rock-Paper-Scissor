@@ -25,17 +25,17 @@
     font-size: 15px;
 }
 .rock{
-    background-image: url(./rock-emoji.png);
+    background-image: url(./assets/rock-emoji.png);
     background-size: 50px 50px;
     background-repeat: no-repeat;
 }
 .scissor{
-    background-image: url(./paper-emoji.png);
+    background-image: url(./assets/paper-emoji.png);
     background-size: 50px 50px;
     background-repeat: no-repeat;
 }
 .paper{
-    background-image: url(./scissors-emoji.png);
+    background-image: url(./assets/scissors-emoji.png);
     background-size: 50px 50px;
     background-repeat: no-repeat;
 }
